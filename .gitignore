@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+branch_structure.json
